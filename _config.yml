@@ -1,9 +1,9 @@
 # Site settings
 title: "Cây Thuốc Quý Hiếm"
-url-title: "Cây Thuốc Quý Hiếm"
-description: "Cây Thuốc Quý Hiếm của Đoàn Bình."
+url-title: "Hoa Thơm Cỏ Lạ"
+description: "Đoàn Bình."
 paginate: 100
-url: "http://caythuocquyhiem.org"
+url: "http://htv21103102.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
